@@ -3,11 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34202.233
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Methods", "Methods\Methods.csproj", "{FB0C955C-9B6C-4C82-B689-13D02C33B6E3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Methods", "Methods\Methods.csproj", "{FB0C955C-9B6C-4C82-B689-13D02C33B6E3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Math", "Math\Math.csproj", "{2B94CDF8-B274-440A-89D2-8C2526F1C7D0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Math", "Math\Math.csproj", "{2B94CDF8-B274-440A-89D2-8C2526F1C7D0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValueAndReferanceType", "ValueAndReferanceType\ValueAndReferanceType.csproj", "{0F56869A-2747-4C88-BEED-12AC93BE990F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ValueAndReferanceType", "ValueAndReferanceType\ValueAndReferanceType.csproj", "{0F56869A-2747-4C88-BEED-12AC93BE990F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP1", "OOP1\OOP1.csproj", "{0365026A-A752-4C4E-8ED4-3D474B926426}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{0F56869A-2747-4C88-BEED-12AC93BE990F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0F56869A-2747-4C88-BEED-12AC93BE990F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0F56869A-2747-4C88-BEED-12AC93BE990F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0365026A-A752-4C4E-8ED4-3D474B926426}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0365026A-A752-4C4E-8ED4-3D474B926426}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0365026A-A752-4C4E-8ED4-3D474B926426}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0365026A-A752-4C4E-8ED4-3D474B926426}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
